@@ -31,7 +31,7 @@
 								<input type="text" class="form-control" name="mobile" placeholder="+91 99xxx-xxx99">	
 							</div>
 							<div class="form-group">
-								<label for="Password">Set Password</label>
+								<label for="Password">Set Password [6-15 character long]</label>
 								<input type="password" class="form-control" name="password" placeholder="******">	
 							</div>
 							<div class="form-group">
